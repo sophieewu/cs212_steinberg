@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+/* A program that asks the user for their name, then says Hello with their name. */
 public class Greeting {
     public static void main(String[] args) {
         // Create a Scanner object to read input from the console
