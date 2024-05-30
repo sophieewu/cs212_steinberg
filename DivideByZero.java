@@ -1,4 +1,4 @@
-/* Write a program to determine what happens if you divide a double by 0. */
+/* A program to determine what happens if you divide a double by 0. */
 public class DivideByZero {
     public static void main(String[] args) {
         double positiveValue = 42.0;
