@@ -1,5 +1,5 @@
 /* Write a program to determine what happens if you divide a double by 0. */
-public class Lab011 {
+public class DivideByZero {
     public static void main(String[] args) {
         double positiveValue = 42.0;
         double negativeValue = -42.0;
