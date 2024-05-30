@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* A program that asks the user for three integers, then outputs their sum in a sentence. */
 public class SumInt {
     public static void main(String[] args) {
         // Create a Scanner object to read input from the console
